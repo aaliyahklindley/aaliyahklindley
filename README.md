@@ -21,9 +21,10 @@ Aspiring IT support specialist exploring cybersecurity through hands-on Windows 
 Built and configured a Windows 11 virtual machine using VirtualBox.
 
 ### [Windows Server 2022 Lab](https://github.com/aaliyahklindley/Windows-Server2022-Setup)
+Built and configured a Windows Server 2022 virtual machine using VirtualBox
 
 ### [Active Directory Domain Controller Lab](https://github.com/aaliyahklindley/Active-Directory-Domain-Controller-Lab)
-Practiced user management, password resets, and domain administration.
+Windows Server 2022 Active Directory lab focused on Domain Controller setup, static IP configuration, and virtual network management
 
 ### IT Home Lab Documentation
 Documenting hands-on learning and troubleshooting processes.
