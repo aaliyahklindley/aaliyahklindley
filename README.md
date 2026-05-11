@@ -17,10 +17,12 @@ Aspiring IT support specialist exploring cybersecurity through hands-on Windows 
 ---
 
 ## Projects
-### Windows 11 VM Lab
+### [Windows 11 VM Lab](https://github.com/aaliyahklindley/Windows11-VM-Setup/tree/main)
 Built and configured a Windows 11 virtual machine using VirtualBox.
 
-### Active Directory Lab
+### [Windows Server 2022 Lab](https://github.com/aaliyahklindley/Windows-Server2022-Setup)
+
+### [Active Directory Domain Controller Lab](https://github.com/aaliyahklindley/Active-Directory-Domain-Controller-Lab)
 Practiced user management, password resets, and domain administration.
 
 ### IT Home Lab Documentation
