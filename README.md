@@ -1,54 +1,65 @@
-# Hi, I'm I'm Aaliyah Lindley 👋
+# Hi, I'm Aaliyah Lindley 👋
 
-🎯 Aspiring IT Support & Cybersecurity Professional  
-💻 Currently building hands-on labs in Windows Server, Active Directory, and Help Desk environments  
-📚 Pursuing an A.A. in Cybersecurity while developing practical IT skills through home lab projects
+🎯 Aspiring IT Support & Cybersecurity Professional
+💻 Building hands-on experience through Windows Server, Active Directory, Help Desk, and cybersecurity labs
+📚 Pursuing an A.A. in Cybersecurity while developing practical IT and security skills through home lab projects
 
 ---
 
 # 🛠️ Technical Skills
 
-- Windows Server 2022
-- Active Directory
-- Windows 11
-- Virtual Machines (VirtualBox / VMware)
-- User & Group Management
-- Help Desk Troubleshooting
-- NTFS Permissions & File Sharing
-- Ticketing Systems (Spiceworks)
-- Account Recovery & Access Control
+### IT & Systems
+
+* Windows Server 2022
+* Windows 11
+* Active Directory
+* Virtual Machines (VirtualBox / VMware)
+* User & Group Management
+* Help Desk Troubleshooting
+* NTFS Permissions & File Sharing
+* Account Recovery & Access Control
+* Ticketing Systems (Spiceworks)
+
+### Cybersecurity
+
+* Authentication & Login Log Analysis
+* Failed Login Detection
+* Basic Security Monitoring
+* Brute-Force Attack Concepts
+* Security Event Analysis
+
+### Programming
+
+* Python
+* File & Log Parsing
+* Dictionaries, Lists & Loops
+* Time-Based Analysis
 
 ---
 
-# 📂 Projects
+# 🛠️ Projects
 
-### [Windows Server 2022 Lab](https://github.com/aaliyahklindley/Windows-Server2022-Setup)
-Configured and deployed a Windows Server 2022 environment in a virtual lab. Practiced server installation, networking, and administrative setup.
+### 🖥️ Windows & Systems Administration
 
-### [Windows 11 VM Environment](https://github.com/aaliyahklindley/Windows11-VM-Setup/tree/main)
-Built a Windows 11 virtual machine environment for IT support and Active Directory testing.
+* [Windows Server 2022 Setup](#) — Built and configured a Windows Server 2022 virtual machine environment.
+* [Windows 11 VM Environment](#) — Created and configured a Windows 11 virtual machine for hands-on IT practice.
+* [Active Directory Domain Controller Lab](#) — Configured a Windows Server domain controller and Active Directory environment.
+* [Active Directory User & Domain Management Lab](#) — Practiced creating and managing users, groups, domains, and organizational units in Active Directory.
+* [Active Directory Help Desk Troubleshooting Lab](#) — Practiced troubleshooting common user and account issues in an Active Directory environment.
+* [Active Directory Permissions & Shared Folder Access Lab](#) — Configured permissions and practiced managing access to shared resources.
 
-### [Active Directory Domain Controller Lab](https://github.com/aaliyahklindley/Active-Directory-Domain-Controller-Lab)
-Installed and configured Active Directory Domain Services (AD DS) and promoted the server to a Domain Controller.
+### 🔐 Cybersecurity
 
-### [Active Directory User & Domain Management Lab](https://github.com/aaliyahklindley/Active-Directory-User-Domain-Management-Lab)
-Created and managed users, groups, organizational units (OUs), and domain policies inside Active Directory.
-
-### [Active Directory Help Desk Troubleshooting Lab](https://github.com/aaliyahklindley/Active-Directory-Help-Desk-Troubleshooting-Lab)
-Performed common IT support tasks including password resets, unlocking accounts, and troubleshooting login issues.
-
-### [Active Directory Permissions & Shared Folder Access Lab](https://github.com/aaliyahklindley/Active-Directory-Permissions-Shared-Folder-Access-Lab)
-Configured shared folders and NTFS permissions to control user and group access within the domain environment.
-
-### [Help Desk Ticketing Lab (Spiceworks)](https://github.com/aaliyahklindley/Help-Desk-Ticketing-System-Lab-Spiceworks-)
-Simulated ticket creation, assignment, prioritization, and resolution workflows using Spiceworks.
+* [Failed Login Analyzer](#) — Built a Python script that analyzes authentication logs and flags users with repeated failed login attempts within a defined time window.
 
 ---
 
 # 🎯 Current Goals
 
-- Earn CompTIA A+ Certification
-- Gain entry-level IT Support / Help Desk experience
-- Continue building cybersecurity and networking labs
-- Develop real-world troubleshooting experience
+* Earn CompTIA A+ Certification
+* Continue studying for CompTIA Security+
+* Gain entry-level IT Support / Help Desk experience
+* Continue building cybersecurity and networking labs
+* Develop practical troubleshooting and security analysis skills
+* Continue creating Python projects related to cybersecurity
 
