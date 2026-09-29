@@ -2,7 +2,7 @@
 
 🎯 Aspiring IT Support & Cybersecurity Professional
 💻 Building hands-on experience through Windows Server, Active Directory, Help Desk, and cybersecurity labs
-📚 Pursuing an A.A. in Cybersecurity while developing practical IT and security skills through home lab projects
+📚 Pursuing an A.S in Cybersecurity while developing practical IT and security skills through home lab projects
 
 ---
 
