@@ -41,16 +41,19 @@
 
 ### 🖥️ Windows & Systems Administration
 
-* [Windows Server 2022 Setup](#) — Built and configured a Windows Server 2022 virtual machine environment.
-* [Windows 11 VM Environment](#) — Created and configured a Windows 11 virtual machine for hands-on IT practice.
-* [Active Directory Domain Controller Lab](#) — Configured a Windows Server domain controller and Active Directory environment.
-* [Active Directory User & Domain Management Lab](#) — Practiced creating and managing users, groups, domains, and organizational units in Active Directory.
-* [Active Directory Help Desk Troubleshooting Lab](#) — Practiced troubleshooting common user and account issues in an Active Directory environment.
-* [Active Directory Permissions & Shared Folder Access Lab](#) — Configured permissions and practiced managing access to shared resources.
+* [Windows Server 2022 Lab](https://github.com/aaliyahklindley/Windows-Server2022-Setup) — Built and configured a Windows Server 2022 virtual machine environment.
+* [Windows 11 VM Lab](https://github.com/aaliyahklindley/Windows11-VM-Setup/tree/main) — Created and configured a Windows 11 virtual machine for hands-on IT practice.
+* [Active Directory Domain Controller Lab](https://github.com/aaliyahklindley/Active-Directory-Domain-Controller-Lab) — Configured a Windows Server domain controller and Active Directory environment.
+* [Active Directory User & Domain Management Lab](https://github.com/aaliyahklindley/Active-Directory-User-Domain-Management-Lab) — Practiced creating and managing users, groups, domains, and organizational units in Active Directory.
+* [Active Directory Help Desk Troubleshooting Lab](https://github.com/aaliyahklindley/Active-Directory-Help-Desk-Troubleshooting-Lab) — Practiced troubleshooting common user and account issues in an Active Directory environment.
+* [Active Directory Permissions & Shared Folder Access Lab](https://github.com/aaliyahklindley/Active-Directory-Permissions-Shared-Folder-Access-Lab) — Configured permissions and practiced managing access to shared resources.
+* [Help Desk Ticketing Lab (Spiceworks)](https://github.com/aaliyahklindley/Help-Desk-Ticketing-System-Lab-Spiceworks-)
+Simulated ticket creation, assignment, prioritization, and resolution workflows using Spiceworks.
+
 
 ### 🔐 Cybersecurity
 
-* [Failed Login Analyzer](#) — Built a Python script that analyzes authentication logs and flags users with repeated failed login attempts within a defined time window.
+* [Failed Login Analyzer](https://github.com/aaliyahklindley/failed-login-analyzer) — Built a Python script that analyzes authentication logs and flags users with repeated failed login attempts within a defined time window.
 
 ---
 
