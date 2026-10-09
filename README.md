@@ -1,8 +1,8 @@
 # Hi, I'm Aaliyah Lindley 👋
 
-🎯 Aspiring IT Support & Cybersecurity Professional
-💻 Building hands-on experience through Windows Server, Active Directory, Help Desk, and cybersecurity labs
-📚 Pursuing an A.S in Cybersecurity while developing practical IT and security skills through home lab projects
+- 🎯 Aspiring IT Support & Cybersecurity Professional
+- 💻 Building hands-on experience through Windows Server, Active Directory, Help Desk, and cybersecurity labs
+- 📚 Pursuing an A.S in Cybersecurity while developing practical IT and security skills through home lab projects
 
 ---
 
